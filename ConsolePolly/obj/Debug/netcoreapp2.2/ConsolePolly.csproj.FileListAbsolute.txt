@@ -1,0 +1,11 @@
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\bin\Debug\netcoreapp2.2\ConsolePolly.deps.json
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\bin\Debug\netcoreapp2.2\ConsolePolly.runtimeconfig.json
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\bin\Debug\netcoreapp2.2\ConsolePolly.runtimeconfig.dev.json
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\bin\Debug\netcoreapp2.2\ConsolePolly.dll
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\bin\Debug\netcoreapp2.2\ConsolePolly.pdb
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.csprojAssemblyReference.cache
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.csproj.CoreCompileInputs.cache
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.AssemblyInfoInputs.cache
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.AssemblyInfo.cs
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.dll
+C:\Users\artur.justino\source\repos\SkateEveryDay\ConsolePolly\ConsolePolly\obj\Debug\netcoreapp2.2\ConsolePolly.pdb
