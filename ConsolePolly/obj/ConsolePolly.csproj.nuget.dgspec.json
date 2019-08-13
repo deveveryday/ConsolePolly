@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artur.justino\\source\\repos\\SkateEveryDay\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj": {}
+    "C:\\Users\\artur.justino\\source\\repos\\skateeveryday\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artur.justino\\source\\repos\\SkateEveryDay\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj": {
+    "C:\\Users\\artur.justino\\source\\repos\\skateeveryday\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur.justino\\source\\repos\\SkateEveryDay\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj",
+        "projectUniqueName": "C:\\Users\\artur.justino\\source\\repos\\skateeveryday\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj",
         "projectName": "ConsolePolly",
-        "projectPath": "C:\\Users\\artur.justino\\source\\repos\\SkateEveryDay\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj",
+        "projectPath": "C:\\Users\\artur.justino\\source\\repos\\skateeveryday\\ConsolePolly\\ConsolePolly\\ConsolePolly.csproj",
         "packagesPath": "C:\\Users\\artur.justino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur.justino\\source\\repos\\SkateEveryDay\\ConsolePolly\\ConsolePolly\\obj\\",
+        "outputPath": "C:\\Users\\artur.justino\\source\\repos\\skateeveryday\\ConsolePolly\\ConsolePolly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
